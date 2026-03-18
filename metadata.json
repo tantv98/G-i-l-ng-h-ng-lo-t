@@ -1,5 +1,5 @@
 {
-  "name": "SalaryMail - Bulk Salary Email Sender",
+  "name": "guiluongmail",
   "description": "Ứng dụng gửi thông báo lương hàng loạt qua Email cho nhân viên chuyên nghiệp và bảo mật.",
   "requestFramePermissions": []
 }
